@@ -38,3 +38,6 @@ REACT
 
 ## use-global-hook
 - [参考文档](https://codesandbox.io/s/several-counters-pdbsy?file=/src/store/index.js:221-228)
+
+## 插件
+- [Hammers插件](https://rawgit.com/hammerjs/hammer.js/master/tests/manual/nested.html)
